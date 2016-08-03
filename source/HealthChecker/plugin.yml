@@ -1,0 +1,12 @@
+name: HealthChecker
+ 
+author: Your Name Here
+ 
+main: com.javaminecraft.HealthChecker
+ 
+commands:
+    healthcheck:
+        description: Toggle display of mob health
+        usage: /<command> [on|off]
+ 
+version: 1.0

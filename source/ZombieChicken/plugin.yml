@@ -1,0 +1,11 @@
+name: ZombieChicken
+
+author: Your Name Here
+ 
+main: com.javaminecraft.ZombieChicken
+ 
+commands:
+    zombiechicken:
+        description: Spawn 1-10 chicken-riding zombies.
+ 
+version: 1.0

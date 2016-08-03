@@ -1,0 +1,11 @@
+name: TreeChopper
+ 
+author: Your Name Here
+ 
+main: com.javaminecraft.TreeChopper
+ 
+commands:
+    choptrees:
+        description: Chop down all trees in a 40x40x40 cube.
+ 
+version: 1.0

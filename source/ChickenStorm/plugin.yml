@@ -1,0 +1,11 @@
+name: ChickenStorm
+ 
+author: Your Name Here
+  
+main: com.javaminecraft.ChickenStorm
+  
+commands:
+    chickenstorm:
+        description: Spawn 1-30 chickens.
+          
+version: 1.0

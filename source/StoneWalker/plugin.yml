@@ -1,0 +1,13 @@
+name: StoneWalker
+ 
+author: Your Name Here
+ 
+main: com.javaminecraft.StoneWalker
+ 
+commands:
+    stonewalk:
+        description: Turn ground to stone as player walks over it.
+    stopstonewalk:
+        description: Turn off this effect.
+ 
+version: 1.0

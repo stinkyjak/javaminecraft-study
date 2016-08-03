@@ -1,0 +1,12 @@
+name: JohnnyAppleChicken
+ 
+author: Your Name Here
+ 
+main: com.javaminecraft.JohnnyApplechicken
+ 
+commands:
+    applechicken:
+        description: Spawn 100 chickens.
+        usage: /<command> [on | off]
+ 
+version: 1.0

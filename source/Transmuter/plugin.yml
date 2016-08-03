@@ -1,0 +1,12 @@
+name: Transmuter
+  
+author: Your Name Here
+  
+main: com.javaminecraft.Transmuter
+  
+commands:
+    transmute:
+        description: Transmute one inventory material to another.
+        usage: /<command> [inputMaterial] [outputMaterial]
+ 
+version: 1.0

@@ -1,0 +1,12 @@
+name: BigDig
+  
+author: Your Name Here
+  
+main: com.javaminecraft.BigDig
+  
+commands:
+    bigdig:
+        description: Scoop away land around the player.
+        usage: /<command> radius
+          
+version: 1.0

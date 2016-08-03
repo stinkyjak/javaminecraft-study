@@ -1,0 +1,13 @@
+name: MobCensus
+  
+author: Your Name Here
+  
+main: com.javaminecraft.MobCensus
+  
+commands:
+    census:
+        description: Count the current mobs.
+    villager:
+        description: Count the nearby villagers.
+ 
+version: 1.0
